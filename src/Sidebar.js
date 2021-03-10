@@ -3,7 +3,7 @@ import SidebarRow from './SidebarRow';
 import WhatshotIcon from '@material-ui/icons/Whatshot';
 import SubscriptionsIcon from '@material-ui/icons/Subscriptions';
 import HomeIcon from '@material-ui/icons/Home';
-import './Sidebar.css';
+import './App.css';
 
 function Sidebar() {
     return (
